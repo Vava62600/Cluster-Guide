@@ -1,2 +1,3 @@
 # Cluster-Guide
-Cluster Guide is a compleate Guide for create Kubernetes Cluster easyly 
+Cluster Guide is a compleate Guide for create easy Kubernetes Cluster 
+
